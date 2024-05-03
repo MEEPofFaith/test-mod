@@ -1,0 +1,16 @@
+{
+    "name": "test-mod",
+    "displayName": "Force An Error To Occur",
+    "author": "me",
+    "description": "kgwepodkafsjlf",
+    "version": "1",
+    "minGameVersion": 146,
+    "dependencies": [
+        "non-existent-mod"
+        "bl-ui-lib"
+    ],
+    "softDependencies": [
+        "black-hole-renderer"
+    ],
+    "hideBrowser": true
+}
